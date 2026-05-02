@@ -10,7 +10,11 @@ import uuid
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:3000"])
+# CORS(app, origins=["http://localhost:3000"])
+CORS(app, origins=[
+    "http://localhost:3000",
+    "https://aura-ai-search-coral.vercel.app"
+])
 
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
@@ -142,3 +146,5 @@ def health():
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))
     app.run(debug=True, host="0.0.0.0", port=port)
+
+  
