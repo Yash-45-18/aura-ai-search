@@ -42,7 +42,7 @@ def build_system_prompt(search_results: list) -> str:
     for i, result in enumerate(search_results, 1):
         sources_text += f"\n[{i}] {result['title']}\nURL: {result['link']}\n{result['snippet']}\n"
 
-    return f"""You are Lumina, an advanced AI search assistant that combines real-time web search with deep reasoning to provide accurate, well-cited answers.
+    return f"""You are Aura, an advanced AI search assistant that combines real-time web search with deep reasoning to provide accurate, well-cited answers.
 
 You have access to the following fresh web search results:
 {sources_text if sources_text else "No web search results available. Answer from your training knowledge."}
