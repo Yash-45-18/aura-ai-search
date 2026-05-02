@@ -1,6 +1,9 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://your-backend.onrender.com/api/$1" }
+    { 
+      "source": "/api/(.*)", 
+      "destination": "https://aura-ai-search.onrender.com/api/$1" 
+    }
   ],
   "buildCommand": "npm run build",
   "outputDirectory": "build",
