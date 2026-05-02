@@ -11,10 +11,7 @@ load_dotenv()
 
 app = Flask(__name__)
 # CORS(app, origins=["http://localhost:3000"])
-CORS(app, origins=[
-    "http://localhost:3000",
-    "https://aura-ai-search-coral.vercel.app"
-])
+CORS(app)
 
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
