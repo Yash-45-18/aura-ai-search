@@ -12,7 +12,7 @@ export function ThinkingDots() {
         />
       ))}
       <span className="ml-2 text-sm text-slate-400 font-body animate-pulse">
-        Lumina is thinking...
+        Aura is thinking...
       </span>
     </div>
   );

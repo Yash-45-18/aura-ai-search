@@ -122,7 +122,7 @@ export function MessageBubble({ message }) {
   return (
     <div className="flex animate-slide-up">
       <div className="w-full max-w-[90%]">
-        {/* Lumina avatar + label */}
+        {/* Aura Avatar + label */}
         <div className="flex items-center gap-2 mb-3">
           <div className="w-7 h-7 rounded-full bg-gradient-to-br from-sky-400 to-violet-500 flex items-center justify-center flex-shrink-0">
             <svg className="w-3.5 h-3.5 text-white" fill="currentColor" viewBox="0 0 20 20">
