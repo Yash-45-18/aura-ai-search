@@ -1,4 +1,4 @@
-# ⚡ Lumina — AI-Powered Search Engine
+# ⚡ Aura — AI-Powered Search Engine
 
 > A Perplexity AI clone built with React + Flask + Claude AI + SerpAPI
 
@@ -293,3 +293,5 @@ MIT — free to use and modify.
 ---
 
 Built with ❤️ using Claude AI
+
+Updated deployment
