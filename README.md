@@ -292,6 +292,4 @@ MIT — free to use and modify.
 
 ---
 
-Built with ❤️ using Claude AI
-
 Updated deployment
