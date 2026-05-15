@@ -9,6 +9,7 @@
 ---
 
 ## 🗂 Project Structure
+Structure of project
 
 ```
 lumina/
