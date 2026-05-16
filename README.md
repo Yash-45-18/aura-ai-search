@@ -9,7 +9,7 @@
 ---
 
 ## 🗂 Project Structure
-Structure of project
+Structure of project 
 
 ```
 lumina/
