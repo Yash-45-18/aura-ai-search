@@ -62,6 +62,7 @@ lumina/
 | 📋 Copy Answers | One-click clipboard copy |
 | 🔍 Follow-up Questions | Full conversational context |
 | 📱 Responsive | Mobile + desktop |
+|    Claude API
 
 ---
 
