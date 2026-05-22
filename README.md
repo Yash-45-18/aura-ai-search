@@ -1,6 +1,6 @@
 # ⚡ Aura — AI-Powered Search Engine
 
-> A Perplexity AI clone built with React + Flask + Claude AI + SerpAPI
+> A Perplexity AI clone built with React + Flask + SerpAPI
 
 ![Lumina](https://img.shields.io/badge/AI-Claude%20Sonnet-blue?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Flask-green?style=flat-square)
