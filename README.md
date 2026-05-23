@@ -71,7 +71,7 @@ lumina/
 ### Step 1 — Clone
 
 ```bash
-git clone https://github.com/your-username/lumina.git
+git clone https://github.com/your-username/Aura.git
 cd lumina
 ```
 
