@@ -286,11 +286,6 @@ curl -X POST http://localhost:5000/api/search \
   -d '{"query": "What is the latest news in AI?"}'
 ```
 
----
-
-## 📝 License
-
-MIT — free to use and modify.
 
 ---
 
