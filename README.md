@@ -111,6 +111,7 @@ npm start
 ---
 
 ## 🔑 Environment Variables
+Added
 
 ### Backend (`backend/.env`)
 
